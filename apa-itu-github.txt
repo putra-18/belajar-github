@@ -1,3 +1,0 @@
-1. VCS 		: sistem yang menyimpan & mengelola rekaman perubahan source code
-2. GIT 		: salah satu software yg dpt melakukan VCS
-3. GITHUB	: website/layanan untuk mengelola project (sama seperti GIT bedanya ini online)
