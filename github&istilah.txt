@@ -13,3 +13,5 @@ ISTILAH DALAM GITHUB :
 8. clone	    : mengambil repo dari remote
 9. push	      : mengirim commit
 10. pull	    : mengambil commit
+
+lorem
