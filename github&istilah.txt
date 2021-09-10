@@ -3,13 +3,14 @@
 3. GITHUB	: website/layanan untuk mengelola project (sama seperti GIT bedanya ini online)
 
 ISTILAH DALAM GITHUB :
-1. repo 	    : folder project
-2. commit	    : rekaman setiap ada perubahan di dlm source code
-3. hash	      : nomor acak untuk menandakan sebuah commit
-4. checkout	  : kembali/pindah ke sebuah commit
-5. branch	    : cabang commit
-6. merge      : menggabungkan beberapa commit
-7. remote	    : sumber yg memiliki repo
-8. clone	    : mengambil repo dari remote
-9. push	      : mengirim commit
-10. pull	    : mengambil commit
+1. repo     : folder project
+2. commit	  : rekaman setiap ada perubahan di dlm source code
+3. hash	    : nomor acak untuk menandakan sebuah commit
+4. checkout : kembali/pindah ke sebuah commit
+5. branch   : cabang commit
+6. merge    : menggabungkan beberapa commit
+7. remote	  : sumber yg memiliki repo
+8. clon     : mengambil repo dari remote
+9. push	    : mengirim commit
+10. pull	  : mengambil commit
+11. fork    : duplikat repo dari github orang lain
